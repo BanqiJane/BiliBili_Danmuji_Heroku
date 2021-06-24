@@ -1,0 +1,9 @@
+{
+    "name": "BiliBili_Danmuji",
+    "description": "Deploy BiliBili_Danmuj on Heroku.",
+    "keywords": ["BiliBili_Danmuj"],
+    "env": {},
+    "website": "https://github.com/BanqiJane/Bilibili_Danmuji",
+    "repository": "https://github.com/BanqiJane/Bilibili_Danmuji",
+    "stack": "container"
+}
