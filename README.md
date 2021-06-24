@@ -5,7 +5,7 @@
 # 步骤
 - 注册heroku账号
 - 点击下方deploy<br/><br/>
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FBanqiJane%2FBilibili_Danmuji)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FBanqiJane%2FBiliBili_Danmuji_Heroku)
 
 <br/>
 - 部署后openapp 国内尽量用http访问 去除https 其他请用https访问
