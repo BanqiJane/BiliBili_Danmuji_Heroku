@@ -4,6 +4,6 @@
     "keywords": ["BiliBili_Danmuj"],
     "env": {},
     "website": "https://github.com/BanqiJane/Bilibili_Danmuji",
-    "repository": "https://github.com/BanqiJane/Bilibili_Danmuji",
+    "repository": "https://github.com/BanqiJane/BiliBili_Danmuji_Heroku",
     "stack": "container"
 }
